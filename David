@@ -1,0 +1,7 @@
+echo "# Davidr64-64" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/Davidr64-64/Davidr64-64.git
+ git push -u origin main
